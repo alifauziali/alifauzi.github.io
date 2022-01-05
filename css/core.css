@@ -1,0 +1,38 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+	font-weight: 600;
+	color: black;
+	background: #fff5eb;
+}
+
+.navbar .navbar-brand {
+	color: black;
+}
+
+.navbar .nav-link {
+	color: #000;
+}
+
+.navbar .nav-link:hover {
+	color: grey;
+}
+
+img {
+	height: 350px;
+	width: 300px;
+}
+
+.h3 {
+	font-weight: 600;
+}
+
+#Skill {
+	padding-top: 50px;
+}
+
+#Resume {
+	padding-top: 100px;
+}
